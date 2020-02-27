@@ -1,4 +1,4 @@
 # Realtime Dashboard
- _A Pen created at CodePen.io. Original URL: [https://codepen.io/apexcharts/pen/pxZKqL](https://codepen.io/apexcharts/pen/pxZKqL).
+ Created by Luiz Felipe Ribeiro Baroncello, co authored by Lukas Derner Grudtner
 
  
